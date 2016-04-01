@@ -6,6 +6,9 @@ public class CitizensList : MonoBehaviour
 {
 
 	public List<CitizensData> citizens;// = new List<Citizen>();
+
+	int index = Random.Range(0, List<citizens>.Count);
+		
 	void Start () 
 	{
 

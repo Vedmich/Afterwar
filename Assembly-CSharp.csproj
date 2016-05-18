@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Death.cs" />
+     <Compile Include="Assets\PlayerMovement.cs" />
      <Compile Include="Assets\Scripts\NPCs\Citizen.cs" />
      <Compile Include="Assets\Scripts\NPCs\CitizensData.cs" />
      <Compile Include="Assets\Scripts\NPCs\CitizensList.cs" />
